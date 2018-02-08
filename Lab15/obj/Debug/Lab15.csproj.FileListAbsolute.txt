@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\source\repos\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\Grand Circus Student\source\repos\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\Grand Circus Student\source\repos\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\Grand Circus Student\source\repos\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\Grand Circus Student\source\repos\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\Grand Circus Student\source\repos\Lab15\Lab15\obj\Debug\Lab15.csprojResolveAssemblyReference.cache
