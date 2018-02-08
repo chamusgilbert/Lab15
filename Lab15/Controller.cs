@@ -39,6 +39,22 @@ namespace Lab15
             listOfCountries.Sort();
             ListList(listOfCountries);
         }
+        public static void RemoveFromList(List<string> listOfCountries)
+        {
+            Console.WriteLine("What country would you like to remove from the list?");
+            string userBoom = Console.ReadLine();
+            if (listOfCountries.Contains(userBoom) == false)
+            {
+                Console.WriteLine("That is not a currently existing country in our database");
+                RemoveFromList(listOfCountries);
+            }
+            else
+            {
+                listOfCountries.Remove(userBoom);
+                listOfCountries.Sort();
+                ListList(listOfCountries);
+            }
+        }
         public static void SaveTxt(List<string> listOfCountries)
         {
             StreamWriter countryWrite = new StreamWriter(@"C: \Users\Grand Circus Student\source\repos\Lab15\ListOfCountries.txt");
